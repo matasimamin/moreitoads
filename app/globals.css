@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Anpassade stilar */
+body {
+  @apply font-sans antialiased;
+}
+:root {
+  --background: #ffffff;
+  --foreground: #000000;
+}
+
+/* eller om du använder dark mode */
+.dark {
+  --background: #000000;
+  --foreground: #ffffff;
+}
