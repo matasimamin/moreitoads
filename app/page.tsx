@@ -108,22 +108,22 @@ export default function Home() {
   const portfolioItems: PortfolioItem[] = [
     {
       id: 1,
-      title: "Reklamvideo för Café Aroma",
+      title: "Molkom Car center AB",
       description: "Kampanjfilm • 35% ökad kundtrafik",
       imageUrl: "/images/hero/i1.png",
       videoUrl: "/videose/p1.mp4",
     },
     {
       id: 2,
-      title: "Produktvideo för Skönhetsprodukter",
-      description: "Produktfilm • 50% ökning i försäljning",
+      title: "Taxi solsta i Karlstad",
+      description: "Reklamfilm • 10% rabatt",
       imageUrl: "/images/hero/i2.jpg",
       videoUrl: "/videose/p2.mp4",
     },
     {
       id: 3,
-      title: "Annonser för Gymkedja",
-      description: "Reklamfilm • 20% fler medlemskap",
+      title: "Annonser för Bilcarcenter",
+      description: "Reklamfilm ",
       imageUrl: "/images/hero/i3.jpg",
       videoUrl: "/videose/p3.mp4",
     },
