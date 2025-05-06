@@ -4,7 +4,7 @@ import "./globals.css";
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import toast from "react-hot-toast";
-import Footer from "./components/Footer"; // adjust the path as needed
+import Footer from "../components/Footer"; // adjust the path as needed
 
 import {
   Play,
