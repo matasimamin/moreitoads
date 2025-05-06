@@ -1,11 +1,9 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  /* config options here */
+// next.config.js
+const nextConfig = {
   i18n: {
-    locales: ["sv"],
-    defaultLocale: "sv",
+    locales: ["sv"], // Only Swedish
+    defaultLocale: "sv", // Set Swedish as default
   },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
