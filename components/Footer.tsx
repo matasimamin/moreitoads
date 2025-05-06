@@ -13,7 +13,7 @@ const Footer = () => {
               className="w-40 h-auto filter brightness-0 invert opacity-90"
             />
             <p className="mt-4 text-sm">
-              Professionella videotjänster för småföretag
+              Professionella videotjänster för företag
             </p>
           </div>
 
