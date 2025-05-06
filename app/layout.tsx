@@ -1,6 +1,6 @@
 import { Toaster } from "react-hot-toast";
 export const metadata = {
-  title: "Moreito Reklambyrå – Professionella Reklamvideos och Digital",
+  title: "Moreito Reklambyrå || Professionella Reklamvideos och Digital",
   description:
     "Moreito Reklambyrå skapar professionella och prisvärda reklamvideos, sociala medierinnehåll och konverterande landningssidor för småföretag.",
 };

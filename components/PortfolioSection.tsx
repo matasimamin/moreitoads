@@ -20,7 +20,7 @@ const PortfolioSection: React.FC<PortfolioSectionProps> = ({
   const [playingVideo, setPlayingVideo] = useState<PortfolioItem | null>(null);
 
   return (
-    <section className="py-20 bg-white">
+    <section id="portfolio" className="py-20 bg-white">
       <div className="container px-4 mx-auto">
         <motion.div
           initial={{ opacity: 0 }}

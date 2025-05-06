@@ -125,8 +125,8 @@ const HeroSection = () => {
         </h1>
 
         <p className="text-xl sm:text-2xl text-gray-600 mb-8 max-w-2xl mx-auto">
-          Professionella mobilfilmade videos som ökar din försäljning - snabbt,
-          enkelt och prisvärt för småföretag
+          En professionell reklambyrå som skapar videor som ökar din försäljning
+          snabbt, enkelt och prisvärt för ditt företag
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -137,7 +137,7 @@ const HeroSection = () => {
             Boka Gratis Idémöte <ChevronRight className="ml-2" />
           </a>
           <button className="text-gray-900 border border-gray-300 px-8 py-2 rounded-lg text-lg font-medium bg-white hover:bg-gray-50">
-            Se Portfolio
+            <a href="#portfolio">Se Portfolio</a>
           </button>
         </div>
       </motion.div>
